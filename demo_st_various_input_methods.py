@@ -14,17 +14,6 @@ st.subheader("Table")
 table = st.text_input("Enter Table")
 st.write("Table:", table)
 st.subheader("x")
-x = st.text_input("Enter x")
-st.write("x:", x)
-st.subheader("y")
-y = st.text_input("Enter y")
-st.write("y:", y)
-st.subheader("z")
-z = st.text_input("Enter z")
-st.write("z:", z)
-
-#st.write("Volume:",float(x)*float(y)*float(z))
-
 
 # Radio Buttons
 st.subheader("Cut")
